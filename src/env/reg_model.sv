@@ -3,7 +3,7 @@
 ////////////
 // The register block is placed in the top level
 // // The registers are grouped together to form a register block 
-class create reg block extended from uvm_reg_block
+class//create reg block extended from uvm_reg_block
 // create object of all the register	
 //
 //
