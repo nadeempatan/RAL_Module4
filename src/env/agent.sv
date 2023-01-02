@@ -1,5 +1,5 @@
 // The agent puts together the driver, sequencer and monitor 
-class //create agent class extended from uvm_agent;
+//class //create agent class extended from uvm_agent;
  // registration 
  //
  
@@ -14,7 +14,7 @@ class //create agent class extended from uvm_agent;
  // create an instance for driver ,sequencer and moitor
 
  //connect phase
-endclass
+//endclass
 
 class apb_agent extends uvm_agent;
 `uvm_component_utils(apb_agent)
