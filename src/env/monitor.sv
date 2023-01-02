@@ -1,7 +1,7 @@
 
 // Monitors the APB interface for any activity and reports out
 // through an analysis port
-class create monitor clas extended from uvm_monitor
+//class create monitor clas extended from uvm_monitor
 //factroy registration
 //
 
@@ -14,11 +14,7 @@ class create monitor clas extended from uvm_monitor
 //
 
 //run phase
-  virtual task run_phase (uvm_phase phase);
+//  virtual task run_phase (uvm_phase phase);
 
-
-
-
-
-  endtask
-endclass
+//  endtask
+//endclass
